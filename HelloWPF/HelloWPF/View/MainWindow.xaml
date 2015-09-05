@@ -1,0 +1,4 @@
+﻿<NavigationWindow x:Class="HelloWPF.View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" x:ClassModifier="internal" Source="/View/Page1.xaml" ShowsNavigationUI="False"/>
